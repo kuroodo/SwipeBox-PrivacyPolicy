@@ -14,8 +14,7 @@ is used for providing and improving the Service. I will not use or share your
 information with anyone except as described in this Privacy Policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and
-Conditions, which is accessible at SwipeBox unless otherwise defined in this
-Privacy Policy.
+Conditions, which is accessible [by clicking this hyperlink](https://github.com/kuroodo/SwipeBox-PrivacyPolicy/blob/master/terms_and_conditions.md)
 
 **Information Collection and Use**
 
