@@ -18,11 +18,7 @@ Conditions, which is accessible [by clicking this hyperlink](https://github.com/
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide
-us with certain personally identifiable information. The information that I
-request will be retained on your device and is not collected by me in any way.
-
-The app does use third party services that may collect information used to
+The only information that this application collects and stores are high scores and agreements to the EULA provided in the Terms and Conditions. This information is stored within the device, and may be stored on Google Play Game Services such as Leaderboards if implemented. The app does use third party services that may collect information used to
 identify you.
 
 Link to privacy policy of third party service providers used by the app
